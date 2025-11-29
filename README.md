@@ -24,5 +24,7 @@ AutoBlockIP for Synology DSM 7.2.2 (黑群晖适用)
 2. 赋予执行权限：
    chmod +x /usr/local/bin/AutoBlockIP.sh
 3. 如果需要定时执行
+   
    3.1 命令行：（#每5分钟执行一次    */5 * * * * /usr/local/bin/autoblockip.sh）
+   
    3.2 DSM界面：也可以在DSM界面中添加，任务计划，可视化的、更直观些。
