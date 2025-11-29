@@ -1,5 +1,6 @@
 # AutoBlockIP
 Enhanced auto-block script for Synology DSM (including black-synology)
+
 AutoBlockIP for Synology DSM 7.2.2 (黑群晖适用)
 
 ## 功能
