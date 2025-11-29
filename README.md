@@ -12,7 +12,9 @@ AutoBlockIP for Synology DSM 7.2.2 (黑群晖适用)
 ✔ 自动写入 DSM 封锁数据库（Web UI 瞬间可见）;
 
 ✔ 避免重复封锁（检查 DSM DB + 本地自动列表）;
+
 ✔ 支持黑群晖 DSM 7.2.2 的 sqlite3 表结构;
+
 ✔ 日志文件轮转（避免占用空间）;
 
 ## 使用方法
